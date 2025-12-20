@@ -47,27 +47,24 @@ Responsive Design • Component Architecture • State Management • REST APIs 
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=morrowchristian&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=morrowchristian&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
 ### 📊 GitHub Stats
 
 <div align="center">
-
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=morrowchristian&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&show=streak" alt="GitHub Stats (includes streak)" />
-
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morrowchristian&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-
 </div>
 
 ### 🐍 My Contribution Snake
 
 <div align="center">
 
-  <!-- Animated GIF for visual pop (run the updated workflow to generate this) -->
+  <!-- Animated GIF for extra flair (if your workflow generates it) -->
   ![Snake animation](https://raw.githubusercontent.com/morrowchristian/morrowchristian/output/github-contribution-grid-snake.gif)
 
-  <!-- Clean static version with automatic dark/light mode switching -->
+  <!-- Static version with proper dark/light mode switching -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/morrowchristian/morrowchristian/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/morrowchristian/morrowchristian/output/github-contribution-grid-snake.svg" />
