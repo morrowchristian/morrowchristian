@@ -59,9 +59,9 @@ Responsive Design • Component Architecture • State Management • REST APIs 
 
 ### 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/morrowchristian/morrowchristian/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
+<img src="https://raw.githubusercontent.com/morrowchristian/morrowchristian/output/github-contribution-grid-snake.svg" alt="Contribution Snake Light" />
 
-*(To enable the snake: Follow Platane/snk GitHub Action setup in your profile repo – it auto-generates this daily!)*
+<img src="https://raw.githubusercontent.com/morrowchristian/morrowchristian/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Dark" />
 
 ### 🚀 Featured Projects
 
