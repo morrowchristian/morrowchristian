@@ -57,11 +57,19 @@ Responsive Design • Component Architecture • State Management • REST APIs 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=morrowchristian&theme=radical&hide_border=true" alt="Streak Stats" />
 </div>
 
-### 🐍 Contribution Snake
+### 🐍 My Contribution Snake
 
-<img src="https://raw.githubusercontent.com/morrowchristian/morrowchristian/output/github-contribution-grid-snake.svg" alt="Contribution Snake Light" />
+<div align="center">
 
-<img src="https://raw.githubusercontent.com/morrowchristian/morrowchristian/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Dark" />
+  ![Snake animation](https://raw.githubusercontent.com/morrowchristian/morrowchristian/output/snake.gif)
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/morrowchristian/morrowchristian/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/morrowchristian/morrowchristian/output/snake.svg" />
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/morrowchristian/morrowchristian/output/snake.svg" />
+  </picture>
+
+</div>
 
 ### 🚀 Featured Projects
 
