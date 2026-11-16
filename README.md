@@ -10,7 +10,7 @@
 
 Experienced in building responsive, client-ready web and mobile apps with **React**, **Next.js**, **Angular**, **Django**, SwiftUI, and vanilla JS. Focused on clean code, automation, QA, and cross-functional collaboration.
 
-🔗 **[Portfolio](https://christian-morrow-portfolio.vercel.app)** • [LinkedIn](https://www.linkedin.com/in/morrowchristian)
+🔗 **[Portfolio](https://morrow-portfolio.vercel.app)** • [LinkedIn](https://www.linkedin.com/in/morrowchristian)
 
 <img src="https://komarev.com/ghpvc/?username=morrowchristian&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile views" />
 
@@ -92,7 +92,7 @@ Responsive Design • Component Architecture • State Management • REST APIs 
 <p align="center">
   <a href="https://www.linkedin.com/in/morrowchristian"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:morrowchristian@icloud.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://christian-morrow-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://morrow-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 Open to full-stack opportunities – let's connect and build something amazing! 🚀
